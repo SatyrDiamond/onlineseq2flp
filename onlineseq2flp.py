@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 SatyrDiamond
+# SPDX-License-Identifier: MIT
+
 import blackboxprotobuf
 import argparse
 import json
