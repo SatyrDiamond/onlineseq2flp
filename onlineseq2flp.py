@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2022 SatyrDiamond
+# SPDX-FileCopyrightText: 2023 SatyrDiamond
 # SPDX-License-Identifier: MIT
 
 import blackboxprotobuf
