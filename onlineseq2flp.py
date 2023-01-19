@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Colby Ray
+# SPDX-License-Identifier: MIT
+
 import blackboxprotobuf
 import argparse
 import json
