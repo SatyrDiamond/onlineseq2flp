@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2023 Colby Ray
+# SPDX-FileCopyrightText: 2023 SatyrDiamond
 # SPDX-License-Identifier: MIT
 
 import blackboxprotobuf
