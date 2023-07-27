@@ -153,7 +153,6 @@ data_FLhd.write(ppq.to_bytes(2, 'little'))
 data_FLdt = BytesIO()
 make_fl_event(data_FLdt, 199, '20.7.2.1852'.encode('utf8') + b'\x00')
 make_fl_event(data_FLdt, 159, 1852)
-make_fl_event(data_FLdt, 28, 1) #Registered
 make_fl_event(data_FLdt, 37, 1)
 make_fl_event(data_FLdt, 200, b'\x00\x00')
 make_fl_event(data_FLdt, 156, int(float(int(os_main['1'])*1000)))
